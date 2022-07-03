@@ -1,0 +1,14 @@
+@media screen and (max-width:800px) {
+    #content{
+        flex-direction: column;
+    }
+    .text{
+        width: 100%;
+    }
+    .hope-img img{
+        width: 40vw;
+        height: 30vw;
+        /* float: right; */
+        margin-left: 100px;
+    }
+}
